@@ -1,1 +1,4 @@
 kenv/**
+**/__pycache__/**
+**/*.egg-info/**
+

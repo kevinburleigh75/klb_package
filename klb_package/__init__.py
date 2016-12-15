@@ -1,2 +1,1 @@
-def do_something():
-    return "something"
+from .work import do_something

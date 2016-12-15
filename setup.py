@@ -8,4 +8,7 @@ setup(name='klb_package',
       author_email='noone@example.com',
       license='MIT',
       packages=['klb_package'],
+      install_requires=[
+          'numpy'
+      ],
       zip_safe=False)
